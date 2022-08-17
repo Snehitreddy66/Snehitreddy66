@@ -8,7 +8,7 @@
 - 👀 Reach me on:
 
 		LinkedIn: www.linkedin.com/in/snehit--reddy/
-		https://www.kaggle.com/snehitreddy
+		Kaggle: https://www.kaggle.com/snehitreddy
 
 Most used languages:
 
