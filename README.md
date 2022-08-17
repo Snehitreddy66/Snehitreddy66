@@ -7,7 +7,8 @@
 
 - 👀 Reach me on:
 
-		• LinkedIn: www.linkedin.com/in/snehit--reddy/
+		LinkedIn: www.linkedin.com/in/snehit--reddy/
+		https://www.kaggle.com/snehitreddy
 
 Most used languages:
 
@@ -15,7 +16,6 @@ Most used languages:
 
 •	Python
 
-•	SQL
 
 
 I’m currently learning:  
