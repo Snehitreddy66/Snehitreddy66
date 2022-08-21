@@ -23,8 +23,10 @@ I’m currently learning:
 - 🌱 PGDM 2nd year in AI & ML as Major specialization and Marketing as Minor Specialization
 
 
-- 💞️ I’ve recently done my internship in CaratRED Technologies as Data Analyst.
+- 💞️ I’ve recently done my internship at CaratRED Technologies as Data Analyst.
 
 
-- 👀 Words that describes me: Self-motivated, Hardworking, Focused & perfectionist.
+- 👀 Words that describes me:
+
+Self-motivated, Hardworking, Focused & perfectionist.
 
