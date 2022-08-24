@@ -7,7 +7,7 @@ _- 💞️ Machine Learning Enthusiast || Data analyst._
 
 - 👀 Reach me on:
 
-		**LinkedIn: www.linkedin.com/in/snehit--reddy/**
+		LinkedIn: www.linkedin.com/in/snehit--reddy/
 		Kaggle: https://www.kaggle.com/snehitreddy
 
 Most used languages:
