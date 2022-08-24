@@ -20,7 +20,7 @@ Most used languages:
 
 I’m currently learning:  
 
-- 🌱 PGDM 2nd year in AI & ML as Major specialization and Marketing as Minor Specialization
+- 🌱 PGDM 2nd year in AI & ML as Major specialization and Marketing as Minor Specialization.
 
 
 - 💞️ I’ve recently done my internship at CaratRED Technologies as Data Analyst.
