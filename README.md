@@ -28,5 +28,5 @@ I’m currently learning:
 
 - 👀 Words that describes me:
 
-Self-motivated, Hardworking, Focused & perfectionist.
+**Self-motivated, Hardworking, Focused & perfectionist.**
 
