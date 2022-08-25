@@ -2,7 +2,7 @@
 
 _- 💞️ Machine Learning Enthusiast || Data analyst._
 
-- 👀 To utilize my knowledge in field of machine learning towards the smooth functioning of organization I realized that satisfaction is book of achievements. 
+-  To utilize my knowledge in field of machine learning towards the smooth functioning of organization I realized that satisfaction is book of achievements. 
 
 
 - 👀 Reach me on:
@@ -26,7 +26,7 @@ I’m currently learning:
 - 💞️ I’ve recently done my internship at CaratRED Technologies as Data Analyst.
 
 
-- 👀 Words that describes me:
+-  Words that describes me:
 
 **Self-motivated, Hardworking, Focused & perfectionist.**
 
