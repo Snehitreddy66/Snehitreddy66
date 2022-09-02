@@ -18,7 +18,7 @@ Most used languages:
 
 
 
-I’m currently learning:  
+I’m currently
 
 - 🌱 PGDM 2nd year in AI & ML as Major specialization and Marketing as Minor Specialization.
 
