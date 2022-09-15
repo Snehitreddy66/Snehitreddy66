@@ -1,6 +1,6 @@
 **- 👋 Hi there it's Snehit (Shaprapawad Snehit Sudarshanreddy).**
 
-_- 💞️ Machine Learning Enthusiast || Data analyst._
+_- 💞️ Machine Learning Enthusiast || Data Analyst._
 
 -  To utilize my knowledge in field of machine learning towards the smooth functioning of organization I realized that satisfaction is book of achievements. 
 
