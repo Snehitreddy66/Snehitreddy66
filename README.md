@@ -23,7 +23,7 @@ I’m currently persuing:
 - 🌱 PGDM 2nd year in AI & ML as Major specialization and Marketing as Minor Specialization.
 
 
-- 💞️ I’ve recently done my internship at CaratRED Technologies as Data Analyst.
+- 💞️ I’ve recently done my internship as Data Analyst at CaratRED Technologies LLP.
 
 
 -  Words that describes me:
