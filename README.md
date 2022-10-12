@@ -16,7 +16,7 @@ Most used languages:
 
 	Python
        
-
+        R
 
 
 I’m currently persuing:
