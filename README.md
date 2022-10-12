@@ -12,9 +12,10 @@ _- 💞️ Machine Learning Enthusiast || Data Analyst._
 
 Most used languages:
 
-•	Jupyter Notebook
+        Sql
 
-•	Python
+	Python
+       
 
 
 
