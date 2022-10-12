@@ -14,7 +14,7 @@ Most used languages:
 
         Sql
 
-	Python
+        Python
        
         R
 
