@@ -19,7 +19,7 @@ Most used languages:
         R
 
 
-currently persuing:
+Currently persuing:
 
 - 🌱 PGDM 2nd year in Artificial intelligence & Machine learning as Major specialization and Marketing as Minor Specialization.
 
