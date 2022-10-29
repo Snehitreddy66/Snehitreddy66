@@ -29,5 +29,5 @@ Currently persuing:
 
 -  Words that describes me:
 
-**Self-motivated, Hardworking, Focused, Perfectionist. **
+**Self-motivated, Hardworking, Focused, Perfectionist.**
 
