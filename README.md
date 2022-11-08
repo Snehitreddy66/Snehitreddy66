@@ -27,7 +27,7 @@ Currently persuing:
 - 💞️ I’ve recently done my internship as Data Analyst at CaratRED Technologies.
 
 
--  Words that describes me 
+-  Words that describes me
 
 **Self-motivated, Hardworking, Focused, Perfectionist.**
 
