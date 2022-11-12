@@ -19,7 +19,7 @@ Most used languages:
         R
 
 BI Tools:
-	
+	Power BI
 
 
 Currently persuing:
