@@ -18,6 +18,9 @@ Most used languages:
        
         R
 
+BI Tools:
+	
+
 
 Currently persuing:
 
