@@ -20,6 +20,7 @@ Most used languages:
 
 BI Tools:
 	Power BI
+	Tableau
 
 
 Currently persuing:
