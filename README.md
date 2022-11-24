@@ -19,6 +19,7 @@ Most used languages:
         R
 
 BI Tools:
+
 	Power BI
 	Tableau
 
