@@ -32,7 +32,7 @@ Currently pursuing:
 - 💞️ I have recently done my internship as Data Analyst at CaratRED Technologies.
 
 
--  Words that describes me
+-  Few words that describes me
 
 **Self-motivated, Hardworking, Focused, Perfectionist.**
 
