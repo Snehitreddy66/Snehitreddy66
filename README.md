@@ -34,5 +34,5 @@ Currently pursuing:
 
 -  Few words that describes me
 
-**Self-motivated,Hardworking,Focused.**
+**Self-motivated,Hardworking,Focused**
 
