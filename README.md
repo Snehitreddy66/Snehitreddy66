@@ -24,7 +24,7 @@ BI Tools:
 	Tableau
 
 
-Currently pursuing:
+Currently pursuing: 
 
 -  PGDM 2nd year in Artificial intelligence & Machine learning as Major specialization and Marketing as Minor Specialization.
 
