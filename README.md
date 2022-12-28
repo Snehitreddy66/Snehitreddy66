@@ -1,4 +1,4 @@
-**- 👋 Hi there it's Snehit (Shaprapawad Snehit Sudarshanreddy).**
+**- 👋 Hi there it's Snehit (Shaprapawad Snehit Sudarshanreddy)**
 
 _-  Machine Learning Enthusiast || Data Analyst._
 
