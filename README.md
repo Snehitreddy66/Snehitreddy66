@@ -9,7 +9,7 @@ _-  Machine Learning Enthusiast || Data Analyst._
 
 		LinkedIn: www.linkedin.com/in/snehit--reddy/
 		Kaggle: https://www.kaggle.com/snehitreddy
-         Personal web:snehiitreddy.info.
+          Personal web:snehiitreddy.info.
 
 Most used languages:
 
