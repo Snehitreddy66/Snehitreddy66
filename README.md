@@ -1,15 +1,15 @@
 **- 👋 Hi there it's Snehit (Shaprapawad Snehit Sudarshanreddy)**
 
-_-  Machine Learning Enthusiast || Data Analyst|| Machine Learning Researcher_
+_ -Associate Analyst at Tech Mahindra || Machine Learning & Deep Leaning Researcher_
 
--  To utilize my knowledge in field of machine learning towards the smooth functioning of organization I realized that satisfaction is book of achievements. 
+-  To utilize my knowledge in field of Machine Learning & Deep Learning towards the smooth functioning of organization I realized that satisfaction is book of achievements. 
 
 
 - 👀 Reach me on:
 
-		LinkedIn: www.linkedin.com/in/snehit--reddy/
-		Kaggle: https://www.kaggle.com/snehitreddy
-          Personal web:snehiitreddy.info.
+LinkedIn: www.linkedin.com/in/snehit--reddy/
+Kaggle: https://www.kaggle.com/snehitreddy
+Personal web:snehiitreddy.info.
 
 Most used languages:
 
@@ -24,17 +24,25 @@ BI Tools:
 
 	Power BI
 	Tableau
+ 
+ **Technical Skills **
 
+Python (Numpy, Pandas, Matplotlib, Seaborn, Keras, Tensorflow, Pytorch, Streamlit)
 
-Currently pursuing: 
+R programming Language
 
--  PGDM 2nd year in Artificial intelligence & Machine learning as Major specialization and Marketing as Minor Specialization.
+SQL
 
+Power BI
 
-- 💞️ I have recently done my internship as Data Analyst at CaratRED Technologies.
+Tableau
 
+Machine Learning 
 
--  Few words that describes me
+Deep Learning  (ANN)
 
-**Self-motivated,Hardworking,Focused.**
+Computer Vision (CNN)
 
+Natural Language Process (Text Analytics)
+
+Time series (RNN, LSTM)
